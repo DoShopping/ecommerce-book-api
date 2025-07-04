@@ -15,10 +15,14 @@
 /ecommerce-book/application/obj/application.csproj.nuget.g.targets
 /ecommerce-book/application/obj/project.assets.json
 /ecommerce-book/application/obj/project.nuget.cache
-/ecommerce-book/core
 /ecommerce-book/infrastructure/obj
 /ecommerce-book/infrastructure/obj/infrastructure.csproj.nuget.dgspec.json
 /ecommerce-book/infrastructure/obj/infrastructure.csproj.nuget.g.props
 /ecommerce-book/infrastructure/obj/infrastructure.csproj.nuget.g.targets
 /ecommerce-book/infrastructure/obj/project.assets.json
 /ecommerce-book/infrastructure/obj/project.nuget.cache
+/ecommerce-book/core/core.csproj
+/ecommerce-book/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+/ecommerce-book/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+/ecommerce-book/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+/ecommerce-book/api/obj/Debug/net8.0/rpswa.dswa.cache.json
